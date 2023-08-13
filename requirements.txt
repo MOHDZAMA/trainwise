@@ -2,7 +2,7 @@
 Flask==2.2.5
 gunicorn==20.0.4
 protobuf==3.20.1
-numpy=1.21.6
+numpy==1.21.6
 opencv-contrib-python==4.7.0.72
 mediapipe==0.9.0.1
 
