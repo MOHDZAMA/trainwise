@@ -11,7 +11,7 @@ distlib==0.3.7
 
 Flask==2.2.5
 flatbuffers==23.5.26
-fonttools==4.42.0
+
 gunicorn==21.2.0
 
 itsdangerous==2.1.2
