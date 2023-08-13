@@ -1,11 +1,6 @@
-
-Flask
-gunicorn
-protobuf
-numpy
-matplotlib
-opencv-contrib-python
-mediapipe
+Flask==2.2.5
+opencv-contrib-python==4.8.0.74
+mediapipe==0.9.0.1
 
 
 
