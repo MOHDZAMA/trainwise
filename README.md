@@ -2,7 +2,7 @@
 title: Flask
 description: A popular minimal server framework for Python
 tags:
-  - python
+  - python39
   - flask
 ---
 
@@ -14,7 +14,7 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 ## ✨ Features
 
-- Python
+- Python39
 - Flask
 
 ## 💁‍♀️ How to use
